@@ -27,6 +27,11 @@ namespace test
             this.Height= 170;
         }
        
+        public void border1_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
+        {
+              if (e.ClickCount == 2)
+       MessageBox.Show("Double Click");
+        }
         public void button_Click1 (object sender, RoutedEventArgs past)
         {
              MessageBox.Show("Mein Tischchen Nummer 123");
