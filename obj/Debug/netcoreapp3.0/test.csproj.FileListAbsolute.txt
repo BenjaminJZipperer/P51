@@ -1,0 +1,17 @@
+c:\Users\CC-Student\Documents\test\obj\Debug\netcoreapp3.0\test.csprojAssemblyReference.cache
+c:\Users\CC-Student\Documents\test\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+c:\Users\CC-Student\Documents\test\obj\Debug\netcoreapp3.0\App.g.cs
+c:\Users\CC-Student\Documents\test\obj\Debug\netcoreapp3.0\test_MarkupCompile.cache
+c:\Users\CC-Student\Documents\test\obj\Debug\netcoreapp3.0\test_MarkupCompile.lref
+c:\Users\CC-Student\Documents\test\bin\Debug\netcoreapp3.0\test.exe
+C:\Users\CC-Student\Documents\test\bin\Debug\netcoreapp3.0\test.deps.json
+C:\Users\CC-Student\Documents\test\bin\Debug\netcoreapp3.0\test.runtimeconfig.json
+C:\Users\CC-Student\Documents\test\bin\Debug\netcoreapp3.0\test.runtimeconfig.dev.json
+c:\Users\CC-Student\Documents\test\bin\Debug\netcoreapp3.0\test.dll
+c:\Users\CC-Student\Documents\test\bin\Debug\netcoreapp3.0\test.pdb
+c:\Users\CC-Student\Documents\test\obj\Debug\netcoreapp3.0\MainWindow.baml
+c:\Users\CC-Student\Documents\test\obj\Debug\netcoreapp3.0\test.g.resources
+c:\Users\CC-Student\Documents\test\obj\Debug\netcoreapp3.0\test.AssemblyInfoInputs.cache
+c:\Users\CC-Student\Documents\test\obj\Debug\netcoreapp3.0\test.AssemblyInfo.cs
+c:\Users\CC-Student\Documents\test\obj\Debug\netcoreapp3.0\test.dll
+c:\Users\CC-Student\Documents\test\obj\Debug\netcoreapp3.0\test.pdb
